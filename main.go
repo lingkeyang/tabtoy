@@ -10,8 +10,7 @@ import (
 var log = golog.New("main")
 
 const (
-	Version_v2 = "2.9.1"
-	Version_v3 = "3.0.0"
+	Version = "2.8.12"
 )
 
 func main() {
@@ -20,7 +19,7 @@ func main() {
 
 	// 版本
 	if *paramVersion {
-		fmt.Printf("%s, %s", Version_v2, Version_v3)
+		fmt.Printf("%s", Version)
 		return
 	}
 

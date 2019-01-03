@@ -37,7 +37,7 @@
 * Tales of the Neon Sea(迷雾侦探)
     https://store.steampowered.com/app/828740/Tales_of_the_Neon_Sea/
     平台: PC(Steam), PS4, Switch
-    
+
 * Mad Magic
 	https://itunes.apple.com/app/id1146098397
 
@@ -48,16 +48,6 @@
     https://itunes.apple.com/us/app/fairy-in-wonderland-parkour/id1128656892?l=zh&ls=1&mt=8
 
 # 迭代历程
-
-* 2018年8月: 第七代导出器,tabtoy v3 大幅简化表格类型及表头展现方式
-
-    新增: tabtoy内建数据类型也使用v3导出的结构实现自举
-
-    新增: 索引表, 类型表, 数据表。所有表均可实现Sheet，文件之间的合并
-
-    修改: 任意表头只有一行，类型由类型表定义
-
-    修改: 基于Json的二进制格式，消除格式间差异
 
 * 2016年8月: 第六代导出器,tabtoy v2 调整为以电子表格为中心的方式, 支持v1 90%常用功能
 
